@@ -33,7 +33,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 
-skin: "/assets/css/skins/dark.css"
+skin: "/assets/css/skins/dracula.css"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -57,3 +57,5 @@ skin: "/assets/css/skins/dark.css"
 
 mathjax:
   enable: true
+
+copyright: "Made with <3 in IIT Ropar"
